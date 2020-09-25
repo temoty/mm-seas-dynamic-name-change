@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.select {
+  color: red;
+  margin: 5em auto;
+}
+
+.textbox {
+  color: red;
+  margin: 5em auto;
+}
+
+#watertype {
+  margin-left: 1em;
+}
+
+#nameinput {
+  margin-left: 1em;
+}
